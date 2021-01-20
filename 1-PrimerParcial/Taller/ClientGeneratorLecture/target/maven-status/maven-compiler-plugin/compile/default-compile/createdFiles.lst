@@ -1,0 +1,8 @@
+ec\edu\espe\arquitectura\generators\client\model\Client.class
+ec\edu\espe\arquitectura\generators\client\GeneratorInitializer.class
+ec\edu\espe\arquitectura\generators\client\Generator.class
+ec\edu\espe\arquitectura\generators\client\ClientGenerator.class
+ec\edu\espe\arquitectura\generators\client\ConfigValidationException.class
+ec\edu\espe\arquitectura\generators\client\dto\AgeDistribution.class
+ec\edu\espe\arquitectura\generators\client\dto\ConfigGenerator.class
+ec\edu\espe\arquitectura\generators\client\dto\enums\ProvinceEnum.class
